@@ -1,5 +1,5 @@
 -- ============================================================
--- REAL-WORLD EXAMPLE: HEALTHCARE SYSTEM
+-- REAL-WORLD EXAMPLE: HEALTHCARE SYSTEM_1
 -- ============================================================
 
 USE ROLE ACCOUNTADMIN;
